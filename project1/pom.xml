@@ -16,7 +16,7 @@
 
  <!-- Change name of jar to keep it simple -->
 	<build>
-		<finalName>Project 1</finalName>
+		<finalName>project1</finalName>
 	</build>
 
 	<dependencies>
@@ -45,9 +45,9 @@
 
 		<!-- Log4j -->
 		<dependency>
-			<groupId>log4j</groupId>
-			<artifactId>log4j</artifactId>
-			<version>1.2.17</version>
+			<groupId>org.apache.logging.log4j</groupId>
+			<artifactId>log4j-api</artifactId>
+			<version>2.11.1</version>
 		</dependency>
 
 		<!-- JUnit -->
