@@ -1,4 +1,4 @@
-package com.revature.project1.FemGrad;
+package com.revature.question1.FemGrad;
 
 import java.io.IOException;
 import java.util.Arrays;

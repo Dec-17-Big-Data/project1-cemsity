@@ -1,4 +1,4 @@
-package com.revature.project1;
+package com.revature.question1;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -10,8 +10,8 @@ import org.apache.hadoop.mrunit.mapreduce.ReduceDriver;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.revature.project1.FemGrad.FemGradMapper;
-import com.revature.project1.FemGrad.FemGradReducer;
+import com.revature.question1.FemGrad.FemGradMapper;
+import com.revature.question1.FemGrad.FemGradReducer;
 
 public class FemGradTest {
 	private MapDriver<LongWritable, Text, Text, Text> mapDriver;

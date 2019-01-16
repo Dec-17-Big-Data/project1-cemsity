@@ -1,4 +1,4 @@
-package com.revature.project1.FemGrad;
+package com.revature.question1.FemGrad;
 
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.Text;
