@@ -30,7 +30,7 @@ public class Q4Mapper extends Mapper <LongWritable, Text, Text, Text>{
 			YearData yd = null;
 			
 			
-			newData:for (int i = 1; i <= lookBack; ++i) { // look back over the last 5 years
+			newData:for (int i = 1; i <= lookBack; ++i) { 
 				String holder = values[length - i];
 				int year = 2017 - i; // 2016+1
 				if(holder != null && !holder.isEmpty()) {

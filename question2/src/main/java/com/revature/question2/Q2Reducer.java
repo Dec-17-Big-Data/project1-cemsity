@@ -25,21 +25,22 @@ public class Q2Reducer extends Reducer<Text, Text, Text, Text>{
 		for (YearData yd : ydList ) {
 			if (ydLast == null) {
 				ydLast = yd;
-				break;
+			} else {
+				Double lastData = ydLast.getData();
+				Double thisData = yd.getData();
+				double answer = ((thisData - lastData) / lastData) * 100;
+				DecimalFormat myFormatter = new DecimalFormat("#0.000#");
+				String output = myFormatter.format(answer);
+				Text outValue = new Text(output);
+				
+				Integer lastYear = ydLast.getYear();
+				Integer thisYear = yd.getYear();
+				
+				Text outKey = new Text("" + lastYear + "-" + thisYear);
+				
+				context.write(outKey, outValue);
+				ydLast = yd;
 			}
-			Double lastData = ydLast.getData();
-			Double thisData = yd.getData();
-			double answer = ((thisData - lastData) / lastData) * 100;
-			DecimalFormat myFormatter = new DecimalFormat("#0.000#");
-			String output = myFormatter.format(answer);
-			Text outValue = new Text(output);
-			
-			Integer lastYear = ydLast.getYear();
-			Integer thisYear = yd.getYear();
-			
-			Text outKey = new Text("" + lastYear + "-" + thisYear);
-			
-			context.write(outKey, outValue);
 		}
 		
 	}

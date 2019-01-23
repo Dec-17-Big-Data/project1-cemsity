@@ -25,9 +25,10 @@ public class Q2Mapper extends Mapper <LongWritable, Text, Text, Text>{
 		int lookBack = 17;
 		
 		if (values[1].equals(countryCode) && values[3].equals(search)) {
-			int length = values.length;
+			
 			values = Arrays.copyOf(values, 61);
-			for (int i = 1; i <= lookBack; --i) { 
+			int length = values.length;
+			for (int i = 1; i <= lookBack; ++i) { 
 				String holder = values[length - i];
 				if(holder != null && !holder.isEmpty()) {  // if data
 					// list is (year, datum)
@@ -36,7 +37,6 @@ public class Q2Mapper extends Mapper <LongWritable, Text, Text, Text>{
 					YearData yd = new YearData(year, data);
 					Text outData = new Text(yd.toString());
 					context.write(new Text(countryCode), outData);
-					
 				} 
 			}
 		}

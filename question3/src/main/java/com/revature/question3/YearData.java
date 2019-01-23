@@ -35,6 +35,6 @@ public class YearData {
 	public void fromString(String string) {
 		String[] arr = string.split("%%");
 		this.year = Integer.parseInt(arr[0]);
-		this.data = Double.parseDouble(arr[0]);		
+		this.data = Double.parseDouble(arr[1]);		
 	}
 }
