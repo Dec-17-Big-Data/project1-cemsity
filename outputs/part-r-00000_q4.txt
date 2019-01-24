@@ -1,0 +1,232 @@
+Afghanistan	%%2000%%2016%%13.7341
+Albania	%%2000%%2016%%-23.3635
+Algeria	%%2000%%2016%%189.4165
+Angola	%%2000%%2016%%-6.2595
+Arab World	%%2000%%2016%%11.2784
+Argentina	%%2000%%2016%%25.8276
+Armenia	%%2000%%2016%%13.9804
+Australia	%%2000%%2016%%7.1841
+Austria	%%2000%%2016%%11.4707
+Azerbaijan	%%2000%%2016%%17.7894
+Bahamas, The	%%2000%%2016%%-2.2718
+Bahrain	%%2000%%2016%%11.7419
+Bangladesh	%%2000%%2016%%-21.5772
+Barbados	%%2000%%2016%%-1.7231
+Belarus	%%2000%%2016%%2.4995
+Belgium	%%2000%%2016%%11.1492
+Belize	%%2000%%2016%%41.5588
+Benin	%%2000%%2016%%9.033
+Bhutan	%%2000%%2016%%9.7343
+Bolivia	%%2000%%2016%%9.9766
+Bosnia and Herzegovina	%%2000%%2016%%6.954
+Botswana	%%2000%%2016%%0.1178
+Brazil	%%2000%%2016%%6.0287
+Brunei Darussalam	%%2000%%2016%%-7.7006
+Bulgaria	%%2000%%2016%%20.7342
+Burkina Faso	%%2000%%2016%%-0.2475
+Burundi	%%2000%%2016%%-0.507
+Cabo Verde	%%2000%%2016%%17.2324
+Cambodia	%%2000%%2016%%-1.915
+Cameroon	%%2000%%2016%%14.2185
+Canada	%%2000%%2016%%3.9912
+Caribbean small states	%%2000%%2016%%9.6749
+Central African Republic	%%2000%%2016%%2.5315
+Central Europe and the Baltics	%%2000%%2016%%4.3817
+Chad	%%2000%%2016%%-0.8351
+Channel Islands	%%2000%%2016%%1.7586
+Chile	%%2000%%2016%%47.8173
+China	%%2000%%2016%%-10.8604
+Colombia	%%2000%%2016%%43.4252
+Comoros	%%2000%%2016%%17.4609
+Congo, Dem. Rep.	%%2000%%2016%%-1.1286
+Congo, Rep.	%%2000%%2016%%12.7341
+Costa Rica	%%2000%%2016%%20.708
+Cote d'Ivoire	%%2000%%2016%%7.279
+Croatia	%%2000%%2016%%5.5085
+Cuba	%%2000%%2016%%18.453
+Cyprus	%%2000%%2016%%10.4268
+Czech Republic	%%2000%%2016%%4.9342
+Denmark	%%2000%%2016%%-4.6793
+Djibouti	%%2000%%2016%%19.240
+Dominican Republic	%%2000%%2016%%15.4069
+Early-demographic dividend	%%2000%%2016%%-4.548
+East Asia & Pacific	%%2000%%2016%%-6.4741
+East Asia & Pacific (IDA & IBRD)	%%2000%%2016%%-7.6841
+East Asia & Pacific (excluding high income)	%%2000%%2016%%-7.6119
+Ecuador	%%2000%%2016%%2.5829
+Egypt, Arab Rep.	%%2000%%2016%%14.1866
+El Salvador	%%2000%%2016%%8.8934
+Equatorial Guinea	%%2000%%2016%%5.1437
+Eritrea	%%2000%%2016%%4.4162
+Estonia	%%2000%%2016%%12.7398
+Ethiopia	%%2000%%2016%%4.8453
+Euro area	%%2000%%2016%%11.3771
+Europe & Central Asia	%%2000%%2016%%7.1006
+Europe & Central Asia (IDA & IBRD)	%%2000%%2016%%4.4336
+Europe & Central Asia (excluding high income)	%%2000%%2016%%3.5139
+European Union	%%2000%%2016%%8.843
+Fiji	%%2000%%2016%%-4.1201
+Finland	%%2000%%2016%%0.411
+Fragile and conflict affected situations	%%2000%%2016%%0.2036
+France	%%2000%%2016%%8.0654
+French Polynesia	%%2000%%2016%%-3.3842
+Gabon	%%2000%%2016%%-30.8389
+Gambia, The	%%2000%%2016%%2.8626
+Georgia	%%2000%%2016%%5.7045
+Germany	%%2000%%2016%%15.4973
+Ghana	%%2000%%2016%%9.1372
+Greece	%%2000%%2016%%-5.8637
+Guam	%%2000%%2016%%5.5177
+Guatemala	%%2000%%2016%%5.900
+Guinea	%%2000%%2016%%34.5112
+Guinea-Bissau	%%2000%%2016%%3.4385
+Guyana	%%2000%%2016%%6.7437
+Haiti	%%2000%%2016%%1.6468
+Heavily indebted poor countries (HIPC)	%%2000%%2016%%2.8321
+High income	%%2000%%2016%%3.4356
+Honduras	%%2000%%2016%%0.4721
+Hong Kong SAR, China	%%2000%%2016%%9.1158
+Hungary	%%2000%%2016%%12.978
+IBRD only	%%2000%%2016%%-8.0803
+IDA & IBRD total	%%2000%%2016%%-5.6532
+IDA blend	%%2000%%2016%%8.3108
+IDA only	%%2000%%2016%%-2.8156
+IDA total	%%2000%%2016%%0.8397
+Iceland	%%2000%%2016%%-2.6876
+India	%%2000%%2016%%-20.0951
+Indonesia	%%2000%%2016%%1.4635
+Iran, Islamic Rep.	%%2000%%2016%%15.8154
+Iraq	%%2000%%2016%%23.3189
+Ireland	%%2000%%2016%%6.3833
+Israel	%%2000%%2016%%16.2863
+Italy	%%2000%%2016%%13.4105
+Jamaica	%%2000%%2016%%3.8734
+Japan	%%2000%%2016%%1.026
+Jordan	%%2000%%2016%%11.4696
+Kazakhstan	%%2000%%2016%%13.132
+Kenya	%%2000%%2016%%-4.7799
+Korea, Dem. People's Rep.	%%2000%%2016%%-2.355
+Korea, Rep.	%%2000%%2016%%2.5579
+Kuwait	%%2000%%2016%%8.4101
+Kyrgyz Republic	%%2000%%2016%%-12.5017
+Lao PDR	%%2000%%2016%%-1.9391
+Late-demographic dividend	%%2000%%2016%%-5.4734
+Latin America & Caribbean	%%2000%%2016%%14.3476
+Latin America & Caribbean (IDA & IBRD)	%%2000%%2016%%14.2594
+Latin America & Caribbean (excluding high income)	%%2000%%2016%%13.5546
+Latvia	%%2000%%2016%%17.0118
+Least developed countries: UN classification	%%2000%%2016%%-3.7896
+Lebanon	%%2000%%2016%%15.6836
+Lesotho	%%2000%%2016%%-15.9435
+Liberia	%%2000%%2016%%-0.5571
+Libya	%%2000%%2016%%14.2064
+Lithuania	%%2000%%2016%%4.6365
+Low & middle income	%%2000%%2016%%-5.9208
+Low income	%%2000%%2016%%0.6058
+Lower middle income	%%2000%%2016%%-7.2897
+Luxembourg	%%2000%%2016%%21.2429
+Macao SAR, China	%%2000%%2016%%21.2487
+Macedonia, FYR	%%2000%%2016%%19.6201
+Madagascar	%%2000%%2016%%4.1865
+Malawi	%%2000%%2016%%6.886
+Malaysia	%%2000%%2016%%10.117
+Maldives	%%2000%%2016%%51.176
+Mali	%%2000%%2016%%38.079
+Malta	%%2000%%2016%%30.8581
+Mauritania	%%2000%%2016%%19.7067
+Mauritius	%%2000%%2016%%18.2039
+Mexico	%%2000%%2016%%15.7702
+Middle East & North Africa	%%2000%%2016%%14.2899
+Middle East & North Africa (IDA & IBRD)	%%2000%%2016%%12.0466
+Middle East & North Africa (excluding high income)	%%2000%%2016%%12.1732
+Middle income	%%2000%%2016%%-7.3037
+Moldova	%%2000%%2016%%-28.1658
+Mongolia	%%2000%%2016%%-0.3428
+Montenegro	%%2000%%2016%%-0.164
+Morocco	%%2000%%2016%%-8.9377
+Mozambique	%%2000%%2016%%-6.7227
+Myanmar	%%2000%%2016%%0.9761
+Namibia	%%2000%%2016%%5.286
+Nepal	%%2000%%2016%%-3.1565
+Netherlands	%%2000%%2016%%4.1391
+New Caledonia	%%2000%%2016%%-6.466
+New Zealand	%%2000%%2016%%9.9573
+Nicaragua	%%2000%%2016%%36.9547
+Niger	%%2000%%2016%%7.8229
+Nigeria	%%2000%%2016%%10.5044
+North America	%%2000%%2016%%-5.027
+Norway	%%2000%%2016%%0.175
+OECD members	%%2000%%2016%%3.9715
+Oman	%%2000%%2016%%40.4706
+Other small states	%%2000%%2016%%3.7479
+Pacific island small states	%%2000%%2016%%-2.890
+Pakistan	%%2000%%2016%%62.9663
+Panama	%%2000%%2016%%25.9723
+Papua New Guinea	%%2000%%2016%%-1.2194
+Paraguay	%%2000%%2016%%21.0469
+Peru	%%2000%%2016%%16.6645
+Philippines	%%2000%%2016%%11.0134
+Poland	%%2000%%2016%%14.252
+Portugal	%%2000%%2016%%-5.9226
+Post-demographic dividend	%%2000%%2016%%3.2437
+Pre-demographic dividend	%%2000%%2016%%2.8028
+Puerto Rico	%%2000%%2016%%-5.073
+Qatar	%%2000%%2016%%43.6988
+Romania	%%2000%%2016%%-17.3313
+Russian Federation	%%2000%%2016%%10.1662
+Rwanda	%%2000%%2016%%1.4773
+Samoa	%%2000%%2016%%-30.8016
+Sao Tome and Principe	%%2000%%2016%%12.9261
+Saudi Arabia	%%2000%%2016%%8.1231
+Senegal	%%2000%%2016%%9.7707
+Serbia	%%2000%%2016%%-7.7569
+Sierra Leone	%%2000%%2016%%1.673
+Singapore	%%2000%%2016%%12.3128
+Slovak Republic	%%2000%%2016%%6.3938
+Slovenia	%%2000%%2016%%-1.1844
+Small states	%%2000%%2016%%4.7065
+Solomon Islands	%%2000%%2016%%2.3286
+Somalia	%%2000%%2016%%1.0891
+South Africa	%%2000%%2016%%-5.5183
+South Asia	%%2000%%2016%%-16.3756
+South Asia (IDA & IBRD)	%%2000%%2016%%-16.3756
+Spain	%%2000%%2016%%26.2226
+Sri Lanka	%%2000%%2016%%-15.8902
+St. Lucia	%%2000%%2016%%0.0247
+St. Vincent and the Grenadines	%%2000%%2016%%12.097
+Sub-Saharan Africa	%%2000%%2016%%3.9042
+Sub-Saharan Africa (IDA & IBRD)	%%2000%%2016%%3.9042
+Sub-Saharan Africa (excluding high income)	%%2000%%2016%%3.9042
+Sudan	%%2000%%2016%%-6.8251
+Suriname	%%2000%%2016%%11.4854
+Swaziland	%%2000%%2016%%19.6176
+Sweden	%%2000%%2016%%2.4892
+Switzerland	%%2000%%2016%%6.7074
+Syrian Arab Republic	%%2000%%2016%%-45.8078
+Tajikistan	%%2000%%2016%%2.8354
+Tanzania	%%2000%%2016%%-14.2182
+Thailand	%%2000%%2016%%-2.1671
+Timor-Leste	%%2000%%2016%%-30.9175
+Togo	%%2000%%2016%%6.8916
+Tonga	%%2000%%2016%%7.9427
+Trinidad and Tobago	%%2000%%2016%%27.0578
+Tunisia	%%2000%%2016%%9.1755
+Turkey	%%2000%%2016%%7.9294
+Turkmenistan	%%2000%%2016%%-0.2532
+Uganda	%%2000%%2016%%1.6492
+Ukraine	%%2000%%2016%%2.8278
+United Arab Emirates	%%2000%%2016%%18.7862
+United Kingdom	%%2000%%2016%%5.7286
+United States	%%2000%%2016%%-6.0226
+Upper middle income	%%2000%%2016%%-5.4376
+Uruguay	%%2000%%2016%%14.1557
+Uzbekistan	%%2000%%2016%%3.5104
+Vanuatu	%%2000%%2016%%-11.6552
+Venezuela, RB	%%2000%%2016%%13.0879
+Vietnam	%%2000%%2016%%1.4963
+Virgin Islands (U.S.)	%%2000%%2016%%-0.6996
+West Bank and Gaza	%%2000%%2016%%41.0886
+World	%%2000%%2016%%-4.1973
+Yemen, Rep.	%%2000%%2016%%-0.5392
+Zambia	%%2000%%2016%%-2.5044
+Zimbabwe	%%2000%%2016%%12.8909

@@ -1,0 +1,205 @@
+Afghanistan	No Recent Data
+American Samoa	No Recent Data
+Andorra	No Recent Data
+Angola	No Recent Data
+Antigua and Barbuda	2012;3.18878
+Arab World	No Recent Data
+Argentina	2014;13.71856
+Aruba	2014;20.4918
+Azerbaijan	2014;16.4318
+Bahamas, The	No Recent Data
+Bahrain	No Recent Data
+Bangladesh	2012;6.32271
+Barbados	No Recent Data
+Belize	2015;9.56951
+Benin	No Recent Data
+Bermuda	No Recent Data
+Bhutan	No Recent Data
+Bolivia	No Recent Data
+Bosnia and Herzegovina	No Recent Data
+Botswana	No Recent Data
+British Virgin Islands	No Recent Data
+Brunei Darussalam	2012;18.47379
+Burkina Faso	No Recent Data
+Burundi	2013;2.38784
+Cabo Verde	2013;7.04588
+Cambodia	No Recent Data
+Cameroon	No Recent Data
+Canada	No Recent Data
+Caribbean small states	No Recent Data
+Cayman Islands	No Recent Data
+Central African Republic	No Recent Data
+Central Europe and the Baltics	No Recent Data
+Chad	No Recent Data
+Channel Islands	No Recent Data
+Chile	2014;12.6661
+China	2015;28.21447
+Colombia	2015;22.54912
+Comoros	No Recent Data
+Congo, Dem. Rep.	No Recent Data
+Congo, Rep.	No Recent Data
+Cote d'Ivoire	No Recent Data
+Curacao	No Recent Data
+Djibouti	No Recent Data
+Dominica	No Recent Data
+Dominican Republic	2014;24.14888
+Early-demographic dividend	No Recent Data
+East Asia & Pacific	No Recent Data
+East Asia & Pacific (IDA & IBRD)	No Recent Data
+East Asia & Pacific (excluding high income)	No Recent Data
+Ecuador	2014;27.83287
+Egypt, Arab Rep.	2013;25.83895
+El Salvador	2014;12.21645
+Equatorial Guinea	No Recent Data
+Eritrea	2014;0.62591
+Ethiopia	No Recent Data
+Euro area	No Recent Data
+Europe & Central Asia	No Recent Data
+Europe & Central Asia (IDA & IBRD)	No Recent Data
+Europe & Central Asia (excluding high income)	No Recent Data
+European Union	No Recent Data
+Faroe Islands	No Recent Data
+Fiji	No Recent Data
+Fragile and conflict affected situations	No Recent Data
+French Polynesia	No Recent Data
+Gabon	No Recent Data
+Gambia, The	2012;0.05636
+Ghana	2013;7.7965
+Gibraltar	No Recent Data
+Greenland	No Recent Data
+Guam	No Recent Data
+Guatemala	No Recent Data
+Guinea	2014;4.58769
+Guinea-Bissau	No Recent Data
+Guyana	2012;3.73695
+Haiti	No Recent Data
+Heavily indebted poor countries (HIPC)	No Recent Data
+High income	No Recent Data
+Honduras	2014;13.49349
+Hong Kong SAR, China	No Recent Data
+IBRD only	No Recent Data
+IDA & IBRD total	No Recent Data
+IDA blend	No Recent Data
+IDA only	No Recent Data
+IDA total	No Recent Data
+India	2014;28.09594
+Indonesia	2012;14.57813
+Iraq	No Recent Data
+Ireland	No Recent Data
+Isle of Man	No Recent Data
+Jamaica	No Recent Data
+Jordan	No Recent Data
+Kenya	No Recent Data
+Kiribati	No Recent Data
+Korea, Dem. People's Rep.	2015;12.4238
+Kosovo	No Recent Data
+Kuwait	2013;17.43908
+Lao PDR	2015;12.12404
+Late-demographic dividend	No Recent Data
+Latin America & Caribbean	No Recent Data
+Latin America & Caribbean (IDA & IBRD)	No Recent Data
+Latin America & Caribbean (excluding high income)	No Recent Data
+Least developed countries: UN classification	No Recent Data
+Lebanon	No Recent Data
+Lesotho	2014;4.2273
+Liberia	No Recent Data
+Libya	No Recent Data
+Liechtenstein	2014;21.33333
+Low & middle income	No Recent Data
+Low income	No Recent Data
+Lower middle income	No Recent Data
+Luxembourg	2014;10.06142
+Madagascar	2014;2.07124
+Malawi	No Recent Data
+Malaysia	2015;20.53754
+Maldives	No Recent Data
+Mali	No Recent Data
+Marshall Islands	No Recent Data
+Mauritania	2016;2.41616
+Mauritius	No Recent Data
+Mexico	2013;22.16127
+Micronesia, Fed. Sts.	No Recent Data
+Middle East & North Africa	No Recent Data
+Middle East & North Africa (IDA & IBRD)	No Recent Data
+Middle East & North Africa (excluding high income)	No Recent Data
+Middle income	No Recent Data
+Monaco	No Recent Data
+Montenegro	No Recent Data
+Morocco	No Recent Data
+Mozambique	No Recent Data
+Myanmar	No Recent Data
+Namibia	No Recent Data
+Nauru	No Recent Data
+Nepal	2013;9.09035
+New Caledonia	No Recent Data
+Nicaragua	No Recent Data
+Niger	No Recent Data
+Nigeria	No Recent Data
+North America	No Recent Data
+Northern Mariana Islands	No Recent Data
+OECD members	No Recent Data
+Oman	No Recent Data
+Other small states	No Recent Data
+Pacific island small states	No Recent Data
+Pakistan	No Recent Data
+Palau	No Recent Data
+Papua New Guinea	No Recent Data
+Paraguay	No Recent Data
+Peru	No Recent Data
+Philippines	No Recent Data
+Post-demographic dividend	No Recent Data
+Pre-demographic dividend	No Recent Data
+Puerto Rico	No Recent Data
+Qatar	2015;16.71458
+Rwanda	2013;2.04811
+Samoa	No Recent Data
+San Marino	No Recent Data
+Sao Tome and Principe	No Recent Data
+Senegal	No Recent Data
+Serbia	2012;27.13499
+Seychelles	2015;14.68144
+Sierra Leone	No Recent Data
+Singapore	No Recent Data
+Sint Maarten (Dutch part)	No Recent Data
+Small states	No Recent Data
+Solomon Islands	No Recent Data
+Somalia	No Recent Data
+South Africa	2014;10.04585
+South Asia	No Recent Data
+South Asia (IDA & IBRD)	No Recent Data
+South Sudan	No Recent Data
+Sri Lanka	2015;14.10381
+St. Kitts and Nevis	No Recent Data
+St. Lucia	No Recent Data
+St. Martin (French part)	No Recent Data
+St. Vincent and the Grenadines	No Recent Data
+Sub-Saharan Africa	No Recent Data
+Sub-Saharan Africa (IDA & IBRD)	No Recent Data
+Sub-Saharan Africa (excluding high income)	No Recent Data
+Sudan	2012;11.17831
+Suriname	No Recent Data
+Swaziland	2013;6.50511
+Syrian Arab Republic	No Recent Data
+Tajikistan	No Recent Data
+Tanzania	No Recent Data
+Timor-Leste	No Recent Data
+Togo	No Recent Data
+Tonga	No Recent Data
+Trinidad and Tobago	No Recent Data
+Turkmenistan	No Recent Data
+Turks and Caicos Islands	No Recent Data
+Tuvalu	No Recent Data
+Uganda	No Recent Data
+Ukraine	No Recent Data
+United Arab Emirates	No Recent Data
+Upper middle income	No Recent Data
+Uruguay	No Recent Data
+Uzbekistan	No Recent Data
+Vanuatu	No Recent Data
+Venezuela, RB	No Recent Data
+Vietnam	2015;21.2934
+Virgin Islands (U.S.)	No Recent Data
+World	No Recent Data
+Yemen, Rep.	No Recent Data
+Zambia	No Recent Data
+Zimbabwe	2013;0.99827
