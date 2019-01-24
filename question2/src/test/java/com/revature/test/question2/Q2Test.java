@@ -1,4 +1,9 @@
 package com.revature.test.question2;
+import static org.hamcrest.CoreMatchers.equalTo;
+import static org.hamcrest.CoreMatchers.hasItem;
+import static org.hamcrest.CoreMatchers.notNullValue;
+import static org.junit.Assert.assertThat;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -10,7 +15,6 @@ import org.apache.hadoop.mrunit.mapreduce.MapReduceDriver;
 import org.apache.hadoop.mrunit.mapreduce.ReduceDriver;
 import org.junit.Before;
 import org.junit.Test;
-import org.hamcrest.junit.MatcherAssert;
 
 import com.revature.question2.Q2Mapper;
 import com.revature.question2.Q2Reducer;
@@ -40,7 +44,7 @@ public class Q2Test {
 		mrDriver.setReducer(reducer);
 	}
 	@Test
-	public void testMapper() {
+	public void testMapper() throws Exception{
 		mapDriver.withInput(new LongWritable(1), new Text("\"United States\",\"USA\",\"Gross graduation ratio, tertiary, female (%)\",\"SE.TER.CMPL.FE.ZS\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"35.85857\",\"37.8298\",\"37.43131\",\"38.22037\",\"39.18913\",\"39.84185\",\"40.23865\",\"41.26198\",\"42.00725\",\"42.78946\",\"43.68347\",\"\",\"46.37914\",\"47.68032\",\"\",\"\",\"\",\"\","));
 	
 		Text outKey = new Text("USA");
@@ -49,11 +53,13 @@ public class Q2Test {
 		 
 		final List<Pair<Text,Text>> result = mapDriver.run();
 		
-		assertThat(result).isNotNull().hasSize(11).contains(out);
-		
+		assertThat(result, notNullValue());
+		assertThat(result, hasItem(out));
+		assertThat(result.size(), equalTo(12));
+			
 	}
 	@Test
-	public void testReducer() {
+	public void testReducer() throws Exception{
 		List<Text> value1 = new ArrayList<Text>();
 		value1.add(new Text("2011%%46.37914"));
 		value1.add(new Text("2012%%47.68032"));
@@ -66,16 +72,18 @@ public class Q2Test {
 	}
 	
 	@Test
-	public void testMapReduce() {
+	public void testMapReduce() throws Exception{
 		mrDriver.withInput(new LongWritable(1), new Text("\"United States\",\"USA\",\"Gross graduation ratio, tertiary, female (%)\",\"SE.TER.CMPL.FE.ZS\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"35.85857\",\"37.8298\",\"37.43131\",\"38.22037\",\"39.18913\",\"39.84185\",\"40.23865\",\"41.26198\",\"42.00725\",\"42.78946\",\"43.68347\",\"\",\"46.37914\",\"47.68032\",\"\",\"\",\"\",\"\","));
 		
 		Text outKey = new Text("2000-2001");
 		Text outVal = new Text("-1.0534");
+		Pair<Text, Text> out = new Pair<Text,Text>(outKey, outVal);
 		
 		final List<Pair<Text,Text>> result = mrDriver.run();
 		
-		assertThat(result).isNotNull().hasSize(10).contains(new Pair<Text, Text>(outKey, outVal));
-		
+		assertThat(result, notNullValue());
+		assertThat(result, hasItem(out));
+		assertThat(result.size(), equalTo(11));
 		
 	}
 }

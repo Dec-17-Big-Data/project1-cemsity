@@ -12,7 +12,17 @@ import org.apache.hadoop.mapreduce.Reducer;
 //import org.apache.logging.log4j.Logger;
 
 public class Q3Reducer extends Reducer<Text, Text, Text, Text>{
-	//private static Logger log = LogManager.getLogger(FemGradReducer.class);
+	/**
+	 * Question 1 Reducer
+	 * <p>
+	 * 	The Question 1 Reducer receives the key, value pair and then splits the value pair
+	 * in to year and data. Then sorts the values by year takes the first and last data pair
+	 * and finds the percent deference. Then key value pair of country and the precent is written
+	 * to the context. 
+	 * </p>
+	 * 
+	 * 
+	 */
 	public void reduce(Text key, Iterable<Text> values, Context context ) throws IOException, InterruptedException{
 		//log.traceEntry();
 		List<YearData> dataList = new ArrayList<YearData>();

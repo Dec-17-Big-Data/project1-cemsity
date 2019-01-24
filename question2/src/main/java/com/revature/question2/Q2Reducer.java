@@ -11,7 +11,16 @@ import org.apache.hadoop.mapreduce.Reducer;
 
 
 public class Q2Reducer extends Reducer<Text, Text, Text, Text>{
-
+	/**
+	 * Question 2 Reducer
+	 * <p>
+	 * 	The Question 2 Reducer receives the key, value pair and then sorts by year. 
+	 * 	Determines the percentage change then writes to context with key being the years used and value is the 
+	 * 	percentage change.
+	 * </p>
+	 * 
+	 * 
+	 */
 	public void reduce(Text key, Iterable<Text> values, Context context ) throws IOException, InterruptedException{
 		List<YearData> ydList = new ArrayList<YearData>();
 		

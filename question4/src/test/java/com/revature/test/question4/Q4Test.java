@@ -44,7 +44,7 @@ public class Q4Test {
 	
 		mapDriver.withOutput(new Text("Czech Republic"), new Text("2000%%46.3699989318848"));
 		mapDriver.withOutput(new Text("Czech Republic"), new Text("2016%%48.6580009460449"));
-		mapDriver.runTest();
+		mapDriver.runTest(false);
 	}
 	@Test
 	public void testReducer() {
@@ -56,7 +56,7 @@ public class Q4Test {
 		
 		reduceDriver.withOutput(new Text("Czech Republic"), new Text("%%2000%%2016%%4.9342"));
 		
-		reduceDriver.runTest();
+		reduceDriver.runTest(false);
 	}
 	
 	@Test
@@ -65,6 +65,6 @@ public class Q4Test {
 		
 		mrDriver.addOutput(new Text("Czech Republic"), new Text("%%2000%%2016%%4.9342"));
 		
-		mrDriver.runTest();
+		mrDriver.runTest(false);
 	}
 }

@@ -9,7 +9,26 @@ import org.apache.hadoop.mapreduce.Mapper;
 
 
 public class Q3Mapper extends Mapper <LongWritable, Text, Text, Text>{
-	
+	/**
+	 * Question 3 Mapper
+	 * <p>
+	 * For Question 1, map iterates over the document looking for lines that 
+	 * contains the Series code. I chose Employment to population ratio, 15+, 
+	 * male (%) (modeled ILO estimate) because the ILO has a complete data set
+	 * that matches well with the nationally supplied data set. 
+	 * Once the line is selected the mapper starts at the end and checks each cell until 
+	 * the year 2000.
+	 * After selecting data, the mapper writes the country as the key, and the year and 
+	 * percentage, in a string separated by double %. 
+	 *
+	 * </p>
+	 * 
+	 * @param key		the LongWritable key assigned by the splitter
+	 * @param text		the Text Value that contains one line of the csv
+	 * @param context	the Context object
+	 * 
+	 * 
+	 */
 	public void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
 		
 		/* 

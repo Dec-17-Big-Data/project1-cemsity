@@ -45,7 +45,7 @@ public class Q3Test {
 		mapDriver.withOutput(new Text("Czech Republic"), new Text("2000%%64.7490005493164"));
 		mapDriver.withOutput(new Text("Czech Republic"), new Text("2016%%65.7740020751953"));
 		
-		mapDriver.runTest();
+		mapDriver.runTest(false);
 	}
 	@Test
 	public void testReducer() {
@@ -57,7 +57,7 @@ public class Q3Test {
 		
 		reduceDriver.withOutput(new Text("Czech Republic"), new Text("%%2000%%2016%%1.583"));
 		
-		reduceDriver.runTest();
+		reduceDriver.runTest(false);
 	}
 	
 	@Test
@@ -66,6 +66,6 @@ public class Q3Test {
 			
 		mrDriver.addOutput(new Text("Czech Republic"), new Text("%%2000%%2016%%1.583"));
 		
-		mrDriver.runTest();
+		mrDriver.runTest(false);
 	}
 }
